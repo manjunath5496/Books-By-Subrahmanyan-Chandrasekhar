@@ -14,5 +14,6 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-By-Subrahmanyan-Chandrasekhar/blob/master/cr(10).pdf" style="text-decoration:none;">The Theory of Turbulence</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-By-Subrahmanyan-Chandrasekhar/blob/master/cr(11).pdf" style="text-decoration:none;">A Quest for Perspectives: Selected Works of S. Chandrasekhar: With Commentary </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-By-Subrahmanyan-Chandrasekhar/blob/master/cr(12).pdf" style="text-decoration:none;">Principles of Stellar Dynamics </a></b></li>
                                
 </ul>
